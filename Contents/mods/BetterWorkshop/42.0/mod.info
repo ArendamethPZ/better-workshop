@@ -1,0 +1,8 @@
+name=Better Workshop
+poster=poster.png
+id=BetterWorkshop
+description=<TEXT> <LEFT> A redesign of the main menu Workshop screen. Browse, validate, edit and upload your Workshop items from a single, clearer screen.
+author=Arendameth
+modversion=0.1.0
+versionMin=42.0
+icon=icon.png
